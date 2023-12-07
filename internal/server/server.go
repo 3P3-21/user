@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"net/http"
 
-	"github.com/3P3-21/curriculum/internal/server/req"
-	"github.com/3P3-21/curriculum/internal/service"
+	"github.com/3P3-21/user/internal/server/req"
+	"github.com/3P3-21/user/internal/service"
 	"github.com/go-chi/chi/v5"
 	"github.com/go-chi/cors"
 )

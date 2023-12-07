@@ -1,9 +1,9 @@
 package user
 
 import (
-	"github.com/3P3-21/curriculum/internal/server/req"
-	"github.com/3P3-21/curriculum/internal/store"
-	"github.com/3P3-21/curriculum/pkg/errs"
+	"github.com/3P3-21/user/internal/server/req"
+	"github.com/3P3-21/user/internal/store"
+	"github.com/3P3-21/user/pkg/errs"
 	"golang.org/x/crypto/bcrypt"
 )
 

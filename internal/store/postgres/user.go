@@ -3,7 +3,7 @@ package postgres
 import (
 	"database/sql"
 
-	"github.com/3P3-21/curriculum/internal/store"
+	"github.com/3P3-21/user/internal/store"
 )
 
 type UserStore struct {

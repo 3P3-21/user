@@ -1,8 +1,8 @@
 package service
 
 import (
-	"github.com/3P3-21/curriculum/internal/service/user"
-	"github.com/3P3-21/curriculum/internal/store"
+	"github.com/3P3-21/user/internal/service/user"
+	"github.com/3P3-21/user/internal/store"
 )
 
 type Service struct {

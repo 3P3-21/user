@@ -1,6 +1,6 @@
 package dto
 
-import "github.com/3P3-21/curriculum/model"
+import "github.com/3P3-21/user/model"
 
 type User struct {
 	ID        int

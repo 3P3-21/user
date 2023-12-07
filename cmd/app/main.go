@@ -3,10 +3,10 @@ package main
 import (
 	"log"
 
-	"github.com/3P3-21/curriculum/internal/config"
-	"github.com/3P3-21/curriculum/internal/server"
-	"github.com/3P3-21/curriculum/internal/service"
-	"github.com/3P3-21/curriculum/internal/store/postgres"
+	"github.com/3P3-21/user/internal/config"
+	"github.com/3P3-21/user/internal/server"
+	"github.com/3P3-21/user/internal/service"
+	"github.com/3P3-21/user/internal/store/postgres"
 )
 
 func main() {

@@ -1,4 +1,4 @@
-module github.com/3P3-21/curriculum
+module github.com/3P3-21/user
 
 go 1.20
 
