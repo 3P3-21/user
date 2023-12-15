@@ -21,3 +21,6 @@ CREATE TABLE IF NOT EXISTS sessions (
     expires_at timestamp,
     created_at timestamp DEFAULT NOW()
 );
+CREATE USER 'username'@'localhost' IDENTIFIED BY 'password';
+
+GRANT SELECT, INSERT, UPDATE, DELETE ON database_name.* TO 'username'@'localhost';
